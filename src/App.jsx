@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 
-const WHATSAPP_NUMBER = '919999999999'
+const WHATSAPP_NUMBER = '918300503218'
 const navLinks = [
   { label: 'Home', href: '#home' },
   { label: 'About Us', href: '#about' },
